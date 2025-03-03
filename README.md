@@ -9,7 +9,7 @@ This project is a simple yet powerful Password Generator built using HTML, CSS, 
 To use this Password Generator, simply clone the repository and open the `index.html` file in your web browser. No additional installation or setup is required.
 
 bash
-git clone https://github.com/your-username/password-generator.git
+git clone https://github.com/Sairam-331/password-generator.git
 cd password-generator
 open index.html
 
